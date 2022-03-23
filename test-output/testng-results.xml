@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20269" started-at="2021-10-28T11:04:12 IST" finished-at="2021-10-28T11:04:32 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20269" started-at="2021-10-28T11:04:12 IST" finished-at="2021-10-28T11:04:32 IST">
+      <class name="pac1.VeryStartingpracticeTest">
+        <test-method status="PASS" signature="general1Test()[pri:0, instance:pac1.VeryStartingpracticeTest@7c29daf3]" name="general1Test" is-config="true" duration-ms="4189" started-at="2021-10-28T11:04:12 IST" finished-at="2021-10-28T11:04:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- general1Test -->
+        <test-method status="PASS" signature="f1Test()[pri:1, instance:pac1.VeryStartingpracticeTest@7c29daf3]" name="f1Test" duration-ms="6967" started-at="2021-10-28T11:04:16 IST" finished-at="2021-10-28T11:04:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1Test -->
+        <test-method status="PASS" signature="fTest()[pri:2, instance:pac1.VeryStartingpracticeTest@7c29daf3]" name="fTest" duration-ms="9001" started-at="2021-10-28T11:04:23 IST" finished-at="2021-10-28T11:04:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fTest -->
+      </class> <!-- pac1.VeryStartingpracticeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
