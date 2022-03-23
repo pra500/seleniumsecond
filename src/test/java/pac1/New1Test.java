@@ -25,6 +25,7 @@ public class New1Test {
 		driver.get("https://www.softwaretestingmaterial.com");
 		System.out.println(driver.getTitle());	    
 		System.out.println("hello");  
+	
 	  
 	 
   }
@@ -36,7 +37,8 @@ public class New1Test {
 	    driver= new ChromeDriver();	
 	    driver.manage().timeouts().implicitlyWait(12, TimeUnit.SECONDS);
 		driver.manage().window().maximize();		
-		driver.get("https://www.freshworks.com/");		
+		driver.get("https://www.freshworks.com/");	
+	
 	  
   }
   
@@ -68,7 +70,13 @@ public class New1Test {
   
 }
 
-  
+  @Test(enabled=true)
+  public void f4Test() 
+  {
+	  
+	  System.out.println("hello");
+	  
+  }
   
   
 }

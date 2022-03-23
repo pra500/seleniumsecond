@@ -4,6 +4,15 @@ import org.testng.annotations.Test;
 
 public class New2Test {
   @Test
-  public void fTest() {
+  public void f1Test() {
+	  
+	  System.out.println("jj");
+  }
+  
+  
+  @Test
+  public void f2Test() {
+	  
+	  System.out.println("jj1");
   }
 }
