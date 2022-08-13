@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 
 public class New1Test {
 	
-	//both drivers working fine
+	//both drivers working fine.........
 	
 	public static WebDriver driver;
 	
